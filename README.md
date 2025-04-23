@@ -12,10 +12,8 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 - Unsplash for the images 
 - Google-fonts for fonts
 
-# Review Our Web Page
+## Visit the Webpage
 
-If you have a moment, we would greatly appreciate your feedback on our work<br>
-Please take a moment to review our webpage : https://fylo-preview.netlify.app<br> 
-Your time and insights are highly valued<br><br>
+To view the live version of the webpage, [click here](https://fylo-store.netlify.app/).
 
 ![image loading...](./FYLO%20Landing%20Page.png)
